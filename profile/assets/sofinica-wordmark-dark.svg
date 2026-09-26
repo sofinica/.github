@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M215 665 L500 830 L785 665" stroke="#FF9B59" stroke-width="106"/>
-    <path d="M215 505 L500 670 L785 505" stroke="#3AD7CB" stroke-width="106"/>
-    <path d="M488 476 L216 318 L500 158 L783 318" stroke="#FFFFFF" stroke-width="106"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">Sofinica symbol avatar - dark</title>
+  <desc id="desc">Avatar-ready Sofinica symbol on a dark rounded-square background tile.</desc>
+  <rect x="72" y="72" width="856" height="856" rx="168" fill="#08163C"/>
+  <rect x="72.5" y="72.5" width="855" height="855" rx="167.5" fill="none" stroke="#1F315E" stroke-width="3"/>
+  <g transform="translate(0 8) scale(0.86) translate(80 80)">
+    <path fill="#E89A59" d="m 209.52344,612.2832 a 53,53 0 0 0 -40.39063,26.16211 53,53 0 0 0 19.3125,72.42188 l 285,165 a 53.0053,53.0053 0 0 0 53.10938,0 l 285,-165 a 53,53 0 0 0 19.3125,-72.42188 53,53 0 0 0 -72.42188,-19.3125 L 500,768.75781 241.55469,619.13281 a 53,53 0 0 0 -32.03125,-6.84961 z"/>
+    <path fill="#6FC9C4" d="m 209.52344,452.2832 a 53,53 0 0 0 -40.39063,26.16211 53,53 0 0 0 19.3125,72.42188 l 285,165 a 53.0053,53.0053 0 0 0 53.10938,0 l 285,-165 a 53,53 0 0 0 19.3125,-72.42188 53,53 0 0 0 -72.42188,-19.3125 L 500,608.75781 241.55469,459.13281 a 53,53 0 0 0 -32.03125,-6.84961 z"/>
+    <path fill="#FFFFFF" d="m 491.00586,105.76953 a 53.0053,53.0053 0 0 0 -17.02149,6.05469 l -284,160 a 53.0053,53.0053 0 0 0 -0.60546,92.0039 l 272,158 a 53,53 0 0 0 72.44921,-19.20703 53,53 0 0 0 -19.20703,-72.44922 l -191.89453,-111.46875 177.22656,-99.8457 256.9629,145.2793 a 53,53 0 0 0 72.2207,-20.05274 53,53 0 0 0 -20.05274,-72.2207 l -283,-160 a 53.0053,53.0053 0 0 0 -35.07812,-6.09375 z"/>
   </g>
 </svg>
